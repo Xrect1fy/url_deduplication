@@ -1,4 +1,4 @@
-基于Simhash算法的的url降重工具 <br />
+基于Simhash算法的url降重工具 <br />
 使用示例: <br />
 方法查询
 ```
